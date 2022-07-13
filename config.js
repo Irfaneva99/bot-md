@@ -34,7 +34,7 @@ global.APIKeys = { // APIKey Here
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
 
-global.WM = 'IRFANBOT-MD BY IRFANFF9'
+global.wm = 'IRFANBOT-MD BY IRFANFF9'
 global.linkgc = 'https://chat.whatsapp.com/JZObD0euUnF2UknDp1UDn8'
 global.linkig = 'https://www.instagram.com/irfan_ff9'
 global.deslink = ''
